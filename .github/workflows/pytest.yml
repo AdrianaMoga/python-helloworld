@@ -1,38 +1,7 @@
 ## Define a test that will always pass successfully
-def test_always_passes():
-    assert True
+#def test_always_passes():
+#    assert True
 
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@AdrianaMoga
-udacity /
-nd064_course_1
-
-16
-183
-
-    656
-
-Code
-Issues 5
-Pull requests 19
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-nd064_course_1/.github/workflows/pytest.yml
-Katie Gamanji Initial commit
-Latest commit 1d55088 on Jan 6
-History
-0 contributors
-43 lines (41 sloc) 1.55 KB
 ##  Named of the workflow.
 name: Pytest
 
@@ -76,19 +45,4 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
-
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
 
