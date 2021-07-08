@@ -1,3 +1,3 @@
 # python-helloworld
 
-check if the docker is running
+test if the docker is running
