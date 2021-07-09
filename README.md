@@ -1,3 +1,3 @@
 # python-helloworld
 
-test if the docker is running
+test: docker is pushed to docker hub
