@@ -44,5 +44,5 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: AdrianaMoga/python-helloworld:latest
+          tags: adrianamoga/python-helloworld:latest
 
